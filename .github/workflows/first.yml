@@ -7,7 +7,6 @@ jobs:
     steps:
       - name: telling hai
         run: |
-             echo"delated happy birthday anuhya"
-             echo"where is the party"
-        
+             echo "delated happy birthday anuhya"
+             echo "where is the party"
 
